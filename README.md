@@ -1,6 +1,4 @@
-im a person
-dumbass trying to learn C-sharp (help)
-uhh 
+i make cool photos
 
 <!---
 Mewxy011/Mewxy011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
