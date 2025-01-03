@@ -1,11 +1,16 @@
-![OVERVIEW](https://github.com/user-attachments/assets/25d142b6-0935-4ea6-9bf3-df0682b879cc)
-im a minor (go away diddy)
+Hello! im known as Mewxy011, Stikynotes
 
-i use photoshop 
+i make thumbnails in photoshop using color efex pro 4 and such
+and also modify some models from open source mods lol
 
+Programs currently used :
+Blender
+Photoshop
+Audacity
+Visual Studio
+Notepad++ (wow what a flex)
 
-and also blender (not that good but tryin)
-
+<iframe src="https://giphy.com/embed/znFOMXuHVkV36qzdbJ" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/binary-znFOMXuHVkV36qzdbJ">via GIPHY</a></p>
 
 
 <!---
