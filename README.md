@@ -39,16 +39,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mewxy011/Mewxy011/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=gruvbox&username=mewxxy01" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <!---
 Mewxy011/Mewxy011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
