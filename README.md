@@ -10,7 +10,9 @@ Audacity
 Visual Studio
 Notepad++ (wow what a flex)
 
-<iframe src="https://giphy.com/embed/znFOMXuHVkV36qzdbJ" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/binary-znFOMXuHVkV36qzdbJ">via GIPHY</a></p>
+i mainly just make skins and stuff
+
+![HardEconomyMWX](https://github.com/user-attachments/assets/62559254-4160-4144-8c53-b6492d87ad5b)
 
 
 <!---
