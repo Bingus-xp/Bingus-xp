@@ -1,6 +1,4 @@
-![yourbrainsgonnafry](https://github.com/user-attachments/assets/fb248d7d-83a6-45a6-b5ee-0209484e05fc)
-![PFPSTKNOTES](https://github.com/user-attachments/assets/4428f886-afc5-43c0-8f9f-50621cea149e)
-![ERROR](https://github.com/user-attachments/assets/63c4b4ed-b573-422e-8164-5a72bb91f93a)
+![yourbrainsgonnafry](https://github.com/user-attachments/assets/fb248d7d-83a6-45a6-b5ee-0209484e05fc)    ![PFPSTKNOTES](https://github.com/user-attachments/assets/4428f886-afc5-43c0-8f9f-50621cea149e)    ![ERROR](https://github.com/user-attachments/assets/63c4b4ed-b573-422e-8164-5a72bb91f93a)
 
 
 
