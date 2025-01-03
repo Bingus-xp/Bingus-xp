@@ -1,6 +1,13 @@
+
+
+![LaikaFarbenwerk](https://github.com/user-attachments/assets/6e8ed6cb-f5aa-4506-826a-17c8424a5b79)
+
+
+
+
 Hello! im known as Mewxy011, Stikynotes
 
-i make thumbnails in photoshop using color efex pro 4 and such
+i make thumbnails in photoshop using color efex pro 4 and such                    
 and also modify some models from open source mods lol
 
 Programs currently used :
