@@ -9,6 +9,8 @@
 im a minor (go away diddy)
 
 i use photoshop (as shown in the few of the pics if you scroll up again) 
+
+
 and also blender (not that good but tryin)
 
 
