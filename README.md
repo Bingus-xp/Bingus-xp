@@ -34,8 +34,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Bingus-XP/Bingus-XP/output/snake.svg" alt="Snake animation" />
-
-###
